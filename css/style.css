@@ -1,0 +1,81 @@
+/* header*/
+
+li{
+	display: inline-block;
+	margin: 20px;
+	font-size: 30px;
+	margin-top: 100px;
+	padding-left: -15px ;	
+}
+
+
+/* article,section*/
+
+.fotoDos{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:500px ;
+	background-image: url("../img/metodo.jpg");
+
+}
+
+.fotoTres{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:500px ;
+	background-image: url("../img/fondo.jpg");
+}
+
+.centro{
+	margin:140px 200px 50px 100px ;
+	width: 500px ;
+	color: withe;
+}
+
+.borderA{
+	border: 15px solid white;
+	margin-top: 10px;
+}
+
+.borderB{
+	border: 15px solid white;
+	margin-top: 550px;
+}
+.borderC{
+	border: 15px solid white;
+	margin-bottom:15px ;
+	margin-left: 15px;
+}
+
+.fondoverde{
+	background-color: #619830 ;
+
+}
+
+.fotoCuatro{
+	width:400px ;
+	height: 450px;	
+}
+
+.centroDos{
+	margin:140px 100px 50px 100px ;
+	width: 500px ;
+	color: withe ;
+}
+.fotoCinco{
+	border-radius: 100%;
+}
+
+.chico{
+	height:40px ;
+	width:40px ;
+	
+}
+
+
+
+
+
+
+
+
